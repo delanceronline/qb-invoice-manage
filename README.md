@@ -4,7 +4,7 @@
 
 ## About QB Invoice Management
 
-This is a web application to management simple invoice creation and sharing among different users. It was developed using PHP with Laravel framework in 2020.
+This is a web application to management simple invoice creation and sharing among different users. It was developed using PHP with Laravel framework version 8 in 2020. In 2024, Tim Chan has revised it so it can now run on version 11, for portfolio showcase purpose.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
