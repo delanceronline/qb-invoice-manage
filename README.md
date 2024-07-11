@@ -8,6 +8,24 @@ This is a web application to management simple invoice creation and sharing amon
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+## Invoice Sharing among Users
+
+<p>Select which users to share with</p>
+<p align="center">
+<img src="https://github.com/delanceronline/qb-invoice-manage/blob/main/readme-images/edit.png">
+</p>
+
+<p>Shared invoices showing up to the respective user</p>
+<p align="center">
+<img src="https://github.com/delanceronline/qb-invoice-manage/blob/main/readme-images/sharing1.png">
+</p>
+
+<p align="center">
+<img src="https://github.com/delanceronline/qb-invoice-manage/blob/main/readme-images/sharing2.png">
+</p>
+
+
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
